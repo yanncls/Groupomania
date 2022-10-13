@@ -1,0 +1,85 @@
+.Create_Title {
+  background-color: #1e1f28;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 53rem;
+}
+
+.Create_Form {
+  display: flex;
+  align-items: center;
+  input {
+    width: 80%;
+  }
+}
+
+.Create_Box {
+  background-color: #4e5166;
+  width: 80%;
+  border-radius: 2%;
+  margin: 4rem 0rem 10rem 0rem;
+  border: solid#FFD7D7 1px;
+}
+
+.Create_Index {
+  display: flex;
+  justify-content: center;
+}
+
+.post_label {
+  display: flex;
+  justify-content: center;
+  label {
+    font-weight: 20rem;
+  }
+}
+
+.DeleteButton {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.image_container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  img {
+    width: 80%;
+    border-radius: 1rem;
+  }
+}
+
+.picture_container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  img {
+    width: 30%;
+    top: 4rem;
+    position: absolute;
+    border-radius: 10rem;
+  }
+}
+
+.Create_Form {
+  button {
+    border: none;
+    border-radius: 1rem;
+    color: white;
+    font-weight: bold;
+    background-color: #fd2d01;
+    margin-bottom: 1rem;
+  }
+}
+.DeleteButton {
+  button {
+    margin-bottom: 1rem;
+    border: none;
+    border-radius: 1rem;
+    background-color: #fd2d01;
+    color: white;
+    font-weight: bold;
+  }
+}

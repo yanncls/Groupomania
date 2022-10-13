@@ -1,0 +1,52 @@
+@use "_colors.scss";
+
+.Dashboard {
+  background-color: colors.$backgroundDark;
+  display: flex;
+  flex-direction: column;
+  min-height: 53rem;
+}
+
+.Feed {
+  width: 80%;
+}
+
+.first-block {
+  display: flex;
+  justify-content: center;
+}
+
+.Profil-Card {
+  background-color: colors.$backgroundLight;
+  height: fit-content;
+  width: 25rem;
+  margin-top: 5px;
+  margin-left: 25px;
+  border-radius: 10px;
+  position: sticky;
+  top: 53px;
+  align-self: flex-start;
+  border: solid#FFD7D7 1px;
+}
+
+.Publish-Card {
+  background-color: colors.$backgroundLight;
+  margin: 5px;
+  border-radius: 10px;
+  width: 98%;
+}
+
+// .Feed {
+//     // background-color: colors.$backgroundLight;
+//     // height: 50rem;
+//     // width: 98%;
+
+//     // margin: 5px;
+//     // border-radius: 10px;
+// }
+
+.Main-Card {
+  display: flex;
+  flex-direction: column;
+  min-height: 750px;
+}
