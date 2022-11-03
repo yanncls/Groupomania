@@ -7,7 +7,7 @@ Réalisé avec #react #javascript #sass #nodejs #axios
 ### La posibilité de se log ou créer un compte
 <img width="1403" alt="Screenshot 2022-10-15 at 14 13 33" src="https://user-images.githubusercontent.com/91957898/195985884-2834d604-722d-4e89-98ee-5f23e41868ee.png">
 
-### L'utilisateur a accès à tous les posts dans l'odre antéchronologique 
+### L'utilisateur a accès à tous les posts dans l'ordre antéchronologique 
 <img width="1425" alt="Screenshot 2022-10-15 at 14 08 13" src="https://user-images.githubusercontent.com/91957898/195986132-0db16a75-1fbb-45cc-b1c1-7a3a9861bf53.png">
 
 ### L'utilisateur peut liker un post 
